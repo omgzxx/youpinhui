@@ -1,4 +1,4 @@
-# vue3-rabbit
+# vue3-youpinhui
 优品汇电商项目（Vite + Vue3）
 ## 项目结构
 + vue3-youpinhui 源代码
@@ -19,7 +19,7 @@
 
 
 运行：
-cd vue3-rabbit
+cd vue3-youpinhui
 
 npm run dev
 
